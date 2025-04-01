@@ -14,7 +14,7 @@
 
         Print_screen {
             bindings = <&kp PRINTSCREEN>;
-            key-positions = <1 2>;
+            key-positions = <2 3>;
         };
 
         Delete {
@@ -24,7 +24,7 @@
 
         DP_email {
             bindings = <&email>;
-            key-positions = <13 14>;
+            key-positions = <14 15>;
         };
 
         numpad {
